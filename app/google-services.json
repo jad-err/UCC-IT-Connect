@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "538340863461",
+    "project_id": "ucc-it-connect",
+    "storage_bucket": "ucc-it-connect.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:538340863461:android:ede9e599f63dc04d81130c",
+        "android_client_info": {
+          "package_name": "com.example.uccitconnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAjWkVPCcmX3gss738KPIjRG_SHj8661BE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
